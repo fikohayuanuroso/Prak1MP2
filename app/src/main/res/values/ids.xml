@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnCamera" type="id" />
+    <item name="btnGallery" type="id" />
+    <item name="etNo" type="id" />
+    <item name="btnBrowser" type="id" />
+    <item name="btnContact" type="id" />
+    <item name="btnDial" type="id" />
+    <item name="btnMaps" type="id" />
+    <item name="btnWA" type="id" />
+    <item name="btnTele" type="id" />
+    <item name="btnIG" type="id" />
+    <item name="btnFB" type="id" />
+    <item name="btnEmail" type="id" />
+</resources>
